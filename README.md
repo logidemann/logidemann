@@ -3,7 +3,7 @@
 💻 | Developer : ```Python, C++, Java, JavaScript```
 
 ## Contact me
-🎧 | Discord : logidemann
+🎧 | Discord : logidemann\n
 Portfolio : loicgidemann.fr
 ## ⚡ Stats
 <p align="center">
