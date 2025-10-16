@@ -1,6 +1,6 @@
 ### Computer science and nothing else! 
 
-💻 | Developer : ```Python, C++, Java, JavaScript```
+💻 | Developer : ```Python, C++, Java, JavaScript, TypeScript, C#, React, Electron```
 
 ## Contact me
 🎧 | Discord : logidemann
