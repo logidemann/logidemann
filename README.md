@@ -4,7 +4,6 @@
 
 ## Contact me
 🎧 | Discord : logidemann
-Portfolio : loicgidemann.fr
 ## ⚡ Stats
 <p align="center">
 
